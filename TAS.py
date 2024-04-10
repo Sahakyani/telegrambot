@@ -21,3 +21,4 @@ async def custom_command(update: Update, context:ContextTypes.DEFAULT_TYPE):
 
     if 'hello' in processed:
         return 'Hey there!'
+    if ''
